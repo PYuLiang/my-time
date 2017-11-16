@@ -1,2 +1,2 @@
 # my-time
-Today is my day, this is my time, and this is my moment.
+个人时间管理工具。从今天开始，你拥有了时间管家！
